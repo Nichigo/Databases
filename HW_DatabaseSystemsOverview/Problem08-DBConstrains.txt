@@ -1,0 +1,4 @@
+Database integrity constraints ensure data integrity in the tables.
+They enforce data rules which cannot be violated. 
+They are used we have to limit the type of data that can go into a table - this ensures 
+the accuracy and reliability of the data in the database.

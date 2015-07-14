@@ -1,0 +1,4 @@
+A NoSQL database provides a mechanism for storage and retrieval of data that uses looser consistency models 
+rather than traditional relational databases. NoSQL databases are often highly optimized key–value stores intended
+for simple retrieval and appending operations, with the goal being significant performance benefits 
+in terms of latency and throughput.

@@ -1,0 +1,2 @@
+Pros: fast searching of values in a certain column or group of columns
+Cons: slow adding and deleting of records in tables

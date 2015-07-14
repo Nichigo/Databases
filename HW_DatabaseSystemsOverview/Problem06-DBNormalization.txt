@@ -1,0 +1,1 @@
+A certain database schema is normalized when the repeating data in the tables of the database is removed. 

@@ -1,0 +1,3 @@
+The advantages of normalized databases are: fast searching, sorting and creating indexes,
+greater overall database organization,reduction of redundant data, data consistency within the database, 
+a much more flexible database design,a better handle on database security.

@@ -1,0 +1,2 @@
+Primary key is a column in the table that uniquely identifies its rows (usually it’s a number but not obligatory)
+Foreign key is an identifier of a record located in another table (usually its primary key but not obligatory)

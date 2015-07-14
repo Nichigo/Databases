@@ -1,0 +1,4 @@
+Relationship “one-to-many”: a single record in the first table has many corresponding records in the second table.
+Relationship “many-to-many”: records in the first table have many corresponding records in the second one and vice versa.
+Relationship “one-to-one”: a single record in a table corresponds to a single record in the other table.
+Self-relationship: a column that is considered a foreign key points to another column that is considered a primary key according to some relationship between the data in these columns.

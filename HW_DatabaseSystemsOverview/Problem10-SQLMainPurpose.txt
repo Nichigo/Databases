@@ -1,0 +1,5 @@
+The main purpose of the SQL language is managing data held in a relational database management system.
+This includes creating, altering, deleting tables and other objects in the database, 
+searching, retrieving, inserting, modifying and deleting rows in tables. 
+It consist of DDL (data definition language – creates, changes and deletes tables) and DML 
+(data manipulation language – executes various queries over the data in the database).

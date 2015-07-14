@@ -1,0 +1,4 @@
+A table is a set of data elements (values) that is organized using a model of vertical columns 
+(which are identified by their name and have type of the data stored in them) 
+and horizontal rows, the cell being the unit where a row and column intersect.
+A table is another term for relation but tables allow duplicate rows and relations don’t.

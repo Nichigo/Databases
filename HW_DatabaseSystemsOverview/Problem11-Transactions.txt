@@ -1,0 +1,5 @@
+Transactions are used for ensuring that a sequence of database operations will be 
+executed as a single unit – they will all be executed successfully or none of them will be executed.
+An example for transaction usage is the scenario when two people using the same account want to buy
+a stock from an internet store at the same time – one of them will succeed but the second one
+will be pleased to try again later because the database will lock the amount of money in the account.
